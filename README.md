@@ -24,12 +24,15 @@ Toy Workxs is an e-commerce web-application with the intention of creating a rea
 * User Profile
 * Orders
 * Products
+### Products
+* Board Games (Data will most likely be created by hand and put in a hosted database, I should only need 20 or 30)
+* Other products are not MVP
 
 ## Future
 * Connect to pokemon api to change profile pic (shows ability to use external api and sort its data)
 * Add coupons/promo codes
 * Edit/Delete profile
-* Separate product pages for (Plushies, Candy, Board Games, and Pokemon)
+* Separate product pages with data added for each (Plushies, Candy, Board Games, and Pokemon-API-Data)
 * Reset password
 * Contact us email page
 * User order history page
