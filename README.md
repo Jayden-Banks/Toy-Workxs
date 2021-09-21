@@ -10,7 +10,7 @@ Toy Workxs is an e-commerce web-application with the intention of creating a rea
 * Cart page
 * Shipping page
 * Payment page
-* Navbar persisent header
+* Navbar persistent header
 ### User Can
 * create a login
 * actually login
