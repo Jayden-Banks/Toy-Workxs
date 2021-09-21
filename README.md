@@ -25,7 +25,7 @@ Toy Workxs is an e-commerce web-application with the intention of creating a rea
 * Orders
 * Products
 
-### Future
+## Future
 * Connect to pokemon api to change profile pic (shows ability to use external api and sort its data)
 * Add coupons/promo codes
 * Edit/Delete profile
