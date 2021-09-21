@@ -21,11 +21,11 @@ Toy Workxs is an e-commerce web-application with the intention of creating a rea
 * add shipping info
 * place orders
 ### DataBase holds
-* User Profile
+* User Profiles
 * Orders
 * Products
 ### Products
-* Board Games (Data will most likely be created by hand and put in a hosted database, I should only need 20 or 30)
+* Board Games (Data will most likely be created by hand and put in a hosted database, I should only need 20-30 for mvp)
 * Other products are not MVP
 
 ## Future
