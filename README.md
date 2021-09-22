@@ -20,6 +20,7 @@ Toy Workxs is an e-commerce web-application with the intention of creating a rea
 * enter payment info
 * add shipping info
 * place orders
+* add products without being signed in using local storage or cookies
 ### DataBase holds
 * User Profiles
 * Orders
@@ -36,3 +37,4 @@ Toy Workxs is an e-commerce web-application with the intention of creating a rea
 * Reset password
 * Contact us email page
 * User order history page
+* guest checkout
